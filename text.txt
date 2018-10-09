@@ -3,4 +3,6 @@ git remote add origin
 git push -u origin master
 git config --global user.name "mayiliang"
 git config --global user.mail 31601361@stu.zucc.edu.cn
-hello world
+111111
+222222
+first try
